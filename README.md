@@ -9,11 +9,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML, JS, CSS</strong>
+  🦄 Linguagens: <strong>HTML, JS, CSS, SQL</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>React, Redux, ContextAPI, Bootstrap, Tailwind CSS</strong>
+  💼 Ferramentas: <strong>React, Redux, ContextAPI, MySQL, Docker, RTL, Jest</strong>
 </p>
 
 <p align="left">
