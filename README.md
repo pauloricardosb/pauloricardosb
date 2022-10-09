@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>React, Redux, ContextAPI, MySQL, Docker, RTL, Jest</strong>
+  💼 Ferramentas: <strong>React, Redux, ContextAPI, MySQL, Docker, RTL, Jest, Sequelize, TypeScript</strong>
 </p>
 
 <p align="left">
