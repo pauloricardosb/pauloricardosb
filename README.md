@@ -4,7 +4,7 @@
  Olá, eu sou Paulo Ricardo!
 </h1>
 <p align="left"> 
-  Atualmente, sou <strong>desenvolvedor Front End</strong> <br>
+  Atualmente, sou <strong>desenvolvedor Full Stack</strong> <br>
   e estudante de Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe.</a>
 </p>
 
