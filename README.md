@@ -1,28 +1,10 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-<h1>
+<h1 align="center">
  Olá, eu sou Paulo Ricardo!
 </h1>
-<p align="left"> 
-  Atualmente, sou <strong>desenvolvedor Full Stack</strong> <br>
-  e estudante de Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe.</a>
-</p>
 
-<p align="left">
-  🦄 Linguagens: <strong>HTML, JS, CSS, SQL</strong>
-</p>
-
-<p align="left">
-  💼 Tecnologias: <strong>React, Redux, ContextAPI, MySQL, Docker, RTL, Jest, Sequelize, TypeScript</strong>
-</p>
-
-<p align="left">
-  💌 Você pode me encontrar nos seguintes lugares: ⤵️
-</p>
-
-<p align="left">
-
-  <a href="mailto:pauloricardosbarboza@gmail.com" alt="Gmail">
+<p align="center">
+ 
+<a href="mailto:pauloricardosbarboza@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:pauloricardosbarboza@gmail.com" />
   </a>
   
@@ -38,4 +20,18 @@
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/pauloricardosb/"/>
    </a>
    
-</p>  
+</p>
+
+<p align="center"> 
+  <strong>Desenvolvedor Web Full-Stack</strong> ☕ 
+</p>
+
+> 🎧   Sobre mim:
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<p> Sou apaixonado por tecnologia desde a infância, tanto quanto amo café. Tive meu primeiro contato com programação aos 9 anos de idade. Nessa época conheci meu jogo favorito e, como tributo a tal, desenvolvi um blog simples com os conhecimentos em HTML e CSS que adquiri. Em 2021, visando me tornar um desenvolvedor, me inscrevi no processo seletivo da <a href="https://www.betrybe.com/">Trybe</a> e, atualmente, sou estudante em tal. Sou um petropolitano teimoso que sonha ser o melhor naquilo que faz, mas que, principalmente, faz o que faz por paixão. </p>
+
+
+>  🦄   Linguagens e Tecnologias: <br> 
+ 
+   <strong>HTML, JS, CSS, SQL, NodeJs, Express, React, Redux, ContextAPI, MySQL, <br> Docker, RTL, Jest, Chai, Sinon, Mocha, Sequelize, TypeScript (...) </strong>
