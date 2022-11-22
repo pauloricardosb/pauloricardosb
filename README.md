@@ -34,4 +34,4 @@
 
 >  🦄   Linguagens e Tecnologias: <br> 
  
-   <strong>HTML, JS, CSS, SQL, NodeJs, Express, React, Redux, <br> ContextAPI, MySQL, Docker, RTL, Jest, Chai, Sinon, Mocha, Sequelize, TypeScript (...) </strong>
+   <strong>HTML, JS, CSS, SQL, NodeJs, Express, React, Redux, <br> ContextAPI, MySQL, Docker, RTL, Jest, Chai, Sinon, Mocha, Sequelize, TypeScript, MongoDB, Mongoose (...) </strong>
