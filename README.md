@@ -105,7 +105,7 @@
                
 ##
 
-<h2> ✒️ 📖 Projetos realizados durante o curso: </h2>
+<h2 align="center"> ✒️ Projetos realizados durante o curso:  </h2>
 
 
 <h3>
