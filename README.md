@@ -105,7 +105,7 @@
                
 ##
 
-<h2 align="center"> ✒️ Projetos realizados durante o curso:  </h2>
+<h2 align="center"> ✒️ Projetos realizados:  </h2>
 
 
 <h3>
@@ -113,16 +113,16 @@
 </h3>
 <details><summary><b>Mostrar projetos</b></summary>
 
-* **[Lessons Learned](https://pauloricardosb.github.io/lessons-learned/)** - [Repositório](https://github.com/pauloricardosb/lessons-learned)
-
-* **[Playground Functions](https://github.com/pauloricardosb/playground-functions)**
+* **[Playground Functions](https://github.com/pauloricardosb/playground-functions-project)**
    
-* **[Pixels Art](https://pauloricardosb.github.io/project-pixels-art/)** - [Repositório](https://github.com/pauloricardosb/pixel-art-project)
+* **[Pixels Art](https://pixel-art-project-nine.vercel.app/)** - [Repositório](https://github.com/pauloricardosb/pixel-art-project)
    
-* **[To do list](https://pauloricardosb.github.io/project-todo-list/)** - [Repositório](https://github.com/pauloricardosb/project-todo-list-project)
+* **[To do list](https://todo-list-project-beta.vercel.app/)** - [Repositório](https://github.com/pauloricardosb/project-todo-list-project)
    
-* **[Trybewarts](https://pauloricardosb.github.io/trybewarts/)** - [Repositório](https://github.com/pauloricardosb/trybewarts-project)
+* **[Trybewarts](https://trybewarts-project-psi.vercel.app/)** - [Repositório](https://github.com/pauloricardosb/trybewarts-project)
   
+* **[Login Page](https://login-page-project.vercel.app/)** - [Repositório] (https://github.com/pauloricardosb/login-page-project)
+
 </details>
 
 <h3>
@@ -133,9 +133,9 @@
   
 * **[Solar System](https://pauloricardosb.github.io/solar-system-project/)** - [Repositório](https://github.com/pauloricardosb/solar-system-project)
 
-* **[Trivia Game](https://trivia-project-pi.vercel.app/)** - [Repositório](https://github.com/pauloricardosb/trivia-project)
-
-* **[Trybe Wallet]()** - [Repositório](https://github.com/pauloricardosb/trybe-wallet-project)
+* **[Pokedex](https://pokedex-project-jet.vercel.app/)** - [Repositório](https://github.com/pauloricardosb/pokedex-project)
+  
+* **[Trivia](https://trivia-project-pi.vercel.app/)** - [Repositório](https://github.com/pauloricardosb/trivia-project)
 
 * **[Recipes App](https://recipes-app-project-umber.vercel.app/)** - [Repositório](https://github.com/pauloricardosb/recipes-app-project)
 
@@ -161,6 +161,12 @@
 
 * **[TFC](https://github.com/pauloricardosb/tfc-project)**
 
+* **[Commerce](https://github.com/pauloricardosb/commerce-project)**
+ 
+* **[TrybeSmith](https://github.com/pauloricardosb/trybesmith-project)**
+  
+* **[Trybers and Dragons](https://github.com/pauloricardosb/trybers-and-dragons-project)**
+  
 ##
 </details>
 
