@@ -121,7 +121,7 @@
    
 * **[Trybewarts](https://trybewarts-project-psi.vercel.app/)** - [Repositório](https://github.com/pauloricardosb/trybewarts-project)
   
-* **[Login Page](https://login-page-project.vercel.app/)** - [Repositório] (https://github.com/pauloricardosb/login-page-project)
+* **[Login Page](https://login-page-project.vercel.app/)** - [Repositório](https://github.com/pauloricardosb/login-page-project)
 
 </details>
 
@@ -131,8 +131,6 @@
 
 <details><summary><b>Mostrar projetos</b></summary>
   
-* **[Solar System](https://pauloricardosb.github.io/solar-system-project/)** - [Repositório](https://github.com/pauloricardosb/solar-system-project)
-
 * **[Pokedex](https://pokedex-project-jet.vercel.app/)** - [Repositório](https://github.com/pauloricardosb/pokedex-project)
   
 * **[Trivia](https://trivia-project-pi.vercel.app/)** - [Repositório](https://github.com/pauloricardosb/trivia-project)
