@@ -106,9 +106,12 @@
 ##
 
 <h2> ✒️ 📖 Projetos realizados durante o curso: </h2>
+
+
 <h3>
    📚 Fundamentos    
 </h3>
+<details><summary><b>Mostrar projetos</b></summary>
 
 * **[Lessons Learned](https://pauloricardosb.github.io/lessons-learned/)** - [Repositório](https://github.com/pauloricardosb/lessons-learned)
 
@@ -119,12 +122,15 @@
 * **[To do list](https://pauloricardosb.github.io/project-todo-list/)** - [Repositório](https://github.com/pauloricardosb/project-todo-list-project)
    
 * **[Trybewarts](https://pauloricardosb.github.io/trybewarts/)** - [Repositório](https://github.com/pauloricardosb/trybewarts-project)
-
+  
+</details>
 
 <h3>
    💻 Front-end
-</h3>
+</h3> 
 
+<details><summary><b>Mostrar projetos</b></summary>
+  
 * **[Solar System](https://pauloricardosb.github.io/solar-system-project/)** - [Repositório](https://github.com/pauloricardosb/solar-system-project)
 
 * **[Trivia Game](https://trivia-project-pi.vercel.app/)** - [Repositório](https://github.com/pauloricardosb/trivia-project)
@@ -133,11 +139,14 @@
 
 * **[Recipes App](https://recipes-app-project-umber.vercel.app/)** - [Repositório](https://github.com/pauloricardosb/recipes-app-project)
 
+</details>
 
 <h3>
    👩‍🍳 Back-end
 </h3>
 
+<details><summary><b>Mostrar projetos</b></summary>
+  
 * **[Docker Todo List](https://github.com/pauloricardosb/docker-todo-list-project)** 
 
 * **[MySQL All for one](https://github.com/pauloricardosb/all-for-one-project)**
@@ -153,4 +162,5 @@
 * **[TFC](https://github.com/pauloricardosb/tfc-project)**
 
 ##
+</details>
 
