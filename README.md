@@ -107,64 +107,61 @@
 
 <h2 align="center"> ✒️ Projetos realizados:  </h2>
 
+<div align="center">
+<table>
+  <tr>
+  <th>📚 Fundamentos</th>
+  <th>💻 Front-end</th>
+  <th>👩‍🍳 Back-end</th>
+  </tr>
+<td align="justify" >
 
-<h3>
-   📚 Fundamentos    
-</h3>
-<details><summary><b>Mostrar projetos</b></summary>
 
-* **[Playground Functions](https://github.com/pauloricardosb/playground-functions-project)**
+**[Playground Functions](https://github.com/pauloricardosb/playground-functions-project)**
    
-* **[Pixels Art](https://pixel-art-project-nine.vercel.app/)** - [Repositório](https://github.com/pauloricardosb/pixel-art-project)
+**[Pixels Art](https://pixel-art-project-nine.vercel.app/)** - [Repositório](https://github.com/pauloricardosb/pixel-art-project)
    
-* **[To do list](https://todo-list-project-beta.vercel.app/)** - [Repositório](https://github.com/pauloricardosb/project-todo-list-project)
+**[To do list](https://todo-list-project-beta.vercel.app/)** - [Repositório](https://github.com/pauloricardosb/project-todo-list-project)
    
-* **[Trybewarts](https://trybewarts-project-psi.vercel.app/)** - [Repositório](https://github.com/pauloricardosb/trybewarts-project)
+**[Trybewarts](https://trybewarts-project-psi.vercel.app/)** - [Repositório](https://github.com/pauloricardosb/trybewarts-project)
   
-* **[Login Page](https://login-page-project.vercel.app/)** - [Repositório](https://github.com/pauloricardosb/login-page-project)
+**[Login Page](https://login-page-project.vercel.app/)** - [Repositório](https://github.com/pauloricardosb/login-page-project)
 
-</details>
 
-<h3>
-   💻 Front-end
-</h3> 
-
-<details><summary><b>Mostrar projetos</b></summary>
+</td>
   
-* **[Pokedex](https://pokedex-project-jet.vercel.app/)** - [Repositório](https://github.com/pauloricardosb/pokedex-project)
+<td align="justify" >
   
-* **[Trivia](https://trivia-project-pi.vercel.app/)** - [Repositório](https://github.com/pauloricardosb/trivia-project)
-
-* **[Recipes App](https://recipes-app-project-umber.vercel.app/)** - [Repositório](https://github.com/pauloricardosb/recipes-app-project)
-
-</details>
-
-<h3>
-   👩‍🍳 Back-end
-</h3>
-
-<details><summary><b>Mostrar projetos</b></summary>
-  
-* **[Docker Todo List](https://github.com/pauloricardosb/docker-todo-list-project)** 
-
-* **[MySQL All for one](https://github.com/pauloricardosb/all-for-one-project)**
-
-* **[MySQL One for All](https://github.com/pauloricardosb/one-for-all-project)**
-
-* **[Talker Manager](https://github.com/pauloricardosb/talker-manager-project)**
-
-* **[Store Manager](https://github.com/pauloricardosb/store-manager-project)** 
-
-* **[Blogs API](https://github.com/pauloricardosb/blogs-api-project)**
-
-* **[TFC](https://github.com/pauloricardosb/tfc-project)**
-
-* **[Commerce](https://github.com/pauloricardosb/commerce-project)**
+**[Pokedex](https://pokedex-project-jet.vercel.app/)** - [Repositório](https://github.com/pauloricardosb/pokedex-project)
  
-* **[TrybeSmith](https://github.com/pauloricardosb/trybesmith-project)**
-  
-* **[Trybers and Dragons](https://github.com/pauloricardosb/trybers-and-dragons-project)**
-  
-##
-</details>
+**[Trivia](https://trivia-project-pi.vercel.app/)** - [Repositório](https://github.com/pauloricardosb/trivia-project)
 
+**[Recipes App](https://recipes-app-project-umber.vercel.app/)** - [Repositório](https://github.com/pauloricardosb/recipes-app-project)
+
+</td>
+
+<td align="justify" >
+
+**[Docker Todo List](https://github.com/pauloricardosb/docker-todo-list-project)** 
+
+**[MySQL All for one](https://github.com/pauloricardosb/all-for-one-project)**
+
+**[MySQL One for All](https://github.com/pauloricardosb/one-for-all-project)**
+
+**[Talker Manager](https://github.com/pauloricardosb/talker-manager-project)**
+
+**[Store Manager](https://github.com/pauloricardosb/store-manager-project)** 
+
+**[Blogs API](https://github.com/pauloricardosb/blogs-api-project)**
+
+**[TFC](https://github.com/pauloricardosb/tfc-project)**
+
+**[Commerce](https://github.com/pauloricardosb/commerce-project)**
+ 
+**[TrybeSmith](https://github.com/pauloricardosb/trybesmith-project)**
+  
+**[Trybers and Dragons](https://github.com/pauloricardosb/trybers-and-dragons-project)**
+
+</td>
+</table>
+<div align="center">
