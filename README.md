@@ -118,7 +118,9 @@
 
 
 **[Playground Functions](https://github.com/pauloricardosb/playground-functions-project)**
-   
+
+**[JS Unit Tests](https://github.com/pauloricardosb/js-unit-tests-project)**
+
 **[Pixels Art](https://pixel-art-project-nine.vercel.app/)** - [Repositório](https://github.com/pauloricardosb/pixel-art-project)
    
 **[To do list](https://todo-list-project-beta.vercel.app/)** - [Repositório](https://github.com/pauloricardosb/project-todo-list-project)
@@ -127,10 +129,13 @@
   
 **[Login Page](https://login-page-project.vercel.app/)** - [Repositório](https://github.com/pauloricardosb/login-page-project)
 
+**[Shopping Cart](https://github.com/pauloricardosb/shopping-cart-project)**
 
 </td>
   
 <td align="justify" >
+  
+**[Solar System](https://github.com/pauloricardosb/solar-system-project)**
   
 **[Pokedex](https://pokedex-project-jet.vercel.app/)** - [Repositório](https://github.com/pauloricardosb/pokedex-project)
  
