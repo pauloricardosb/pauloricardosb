@@ -19,7 +19,7 @@
 
 </div>
 
-- 🌱 Estudando Desenvolvimento Web Full Stack pela [Trybe](https://www.betrybe.com/)
+- 🌱 Desenvolvedor Web Full Stack formado pela [Trybe](https://www.betrybe.com/)
 - 👩 Pronomes: ele/dele
 - 🎮 Hobbies: música, fotografia, filmes e séries
 - 📍 Petrópolis, Rio De Janeiro, Brasil
