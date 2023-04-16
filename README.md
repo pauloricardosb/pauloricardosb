@@ -15,7 +15,7 @@
  
 > 🎧   Sobre mim:
  
-  <p> Sou apaixonado por tecnologia desde a infância, tanto quanto amo café. Tive meu primeiro contato com programação aos 9 anos de idade. Nessa época conheci meu jogo favorito e, como tributo a tal, desenvolvi um blog simples com os conhecimentos em HTML e CSS que adquiri. Em 2021, visando me tornar um desenvolvedor, me inscrevi no processo seletivo da <a href="https://www.betrybe.com/">Trybe</a> e, atualmente, sou estudante em tal. Sou um petropolitano teimoso que sonha ser o melhor naquilo que faz, mas que, principalmente, faz o que faz por paixão. </p>
+  <p> Sou apaixonado por tecnologia desde a infância, tanto quanto amo café. Tive meu primeiro contato com programação aos 9 anos de idade. Nessa época conheci meu jogo favorito e, como tributo a tal, desenvolvi um blog simples com os conhecimentos em HTML e CSS que adquiri. Em 2021, visando me tornar um desenvolvedor, me inscrevi no processo seletivo da <a href="https://www.betrybe.com/">Trybe</a> e, atualmente, sou estudante formado em tal. Sou um petropolitano teimoso que sonha ser o melhor naquilo que faz, mas que, principalmente, faz o que faz por paixão. </p>
 
 </div>
 
